@@ -1,0 +1,5 @@
+ultralytics==8.0.134
+Pillow==10.1.0
+transformers==4.44.0
+langgraph==0.2.1
+gradio==6.2.0
