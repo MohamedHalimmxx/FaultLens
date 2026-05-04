@@ -83,13 +83,6 @@ Result Gradio UI
 
 ---
 
-## 👥 Contributors
-- Reem Hatem Zekry
-- Shimaa Reda
-- Ahmed Khafagy
-- Ahmed Hegazy
-  
----
 
 ## 💡 Future Plans
 
